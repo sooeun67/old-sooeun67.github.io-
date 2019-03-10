@@ -24,3 +24,10 @@ This project is an individual portfolio(exam) that studies a relationship betwee
 The project explores a variety of factors and determines if alcohol affects our health mentally and physically. 
 
 [Check here](https://sooeun67.github.io/Alcohol/Home.html)
+
+
+# 4. Document(Text) Summarization - Deep Learning Project
+
+This study develops a model based on Sequence to Sequence(Seq2Seq) how to summarize text(news articles) and generate features of US news headlines using deep learning with Keras and TensorFlow. 
+
+[Check here](https://sooeun67.github.io/Neural-Networks-and-Deep-Learning/)
