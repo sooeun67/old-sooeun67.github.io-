@@ -38,3 +38,10 @@ This is a full report of hackathon that our team was selected as best group and 
 Our team identified the assigned language by accessing the server/database and conducted NLP procesing such as tokenizing, stemming. We also generated scores and labels for the document including Part of Speech(PoS) Tagging and Named Entity Recognition(NER). My main role was to create an elasticsearch index that represents our test data documents and includes the result of our analytic. 
 
 [Click here](https://github.com/sooeun67/NLP/blob/master/Hackathon.pdf)
+
+## 6. Korean Movie Review Sentiment Analysis
+### Natural Language Processing Project
+
+In this study, we explore various machine learning (ML) tools and natural language processing (NLP) methods to perform a prediction analysis of movie ratings. Prior to the prediction process, this paper presents data collection and step of data pre-processing with the introduction of Python libraries and packages available. 
+
+[Check here](https://github.com/sooeun67/NLP/blob/master/korean_movie_project/aboutme.md)
