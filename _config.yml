@@ -2,8 +2,14 @@ title: Sooeun Oh's Portfolio
 logo: /assets/img/logo.png
 description: This page contains portfolio of data science/analysis project completed by me for academic, self-learning, and hobby purposes.
 
-[Sooeun's LinkedIn](https://www.linkedin.com/in/sooeunoh/)
+social-network-links:
+  rss: true
+  email: "so472@geprgetown.edu"
+  linkedin: sooeunoh
 
+share-links-active:
+  linkedin: true
+  
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
