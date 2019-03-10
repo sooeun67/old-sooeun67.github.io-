@@ -1,3 +1,5 @@
+url: "https://sooeun67.github.io"
+
 title: Sooeun Oh's Portfolio
 name: Sooeun Oh
 logo: /assets/img/logo.png
@@ -13,7 +15,7 @@ share-links-active:
   
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
