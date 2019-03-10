@@ -30,4 +30,4 @@ The project explores a variety of factors and determines if alcohol affects our 
 
 This study develops a model based on Sequence to Sequence(Seq2Seq) how to summarize text(news articles) and generate features of US news headlines using deep learning with Keras and TensorFlow. 
 
-[Check here](https://sooeun67.github.io/Neural-Networks-and-Deep-Learning/)
+[Check here](https://github.com/sooeun67/Neural-Networks-and-Deep-Learning/blob/master/Project/About.md)
