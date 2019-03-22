@@ -16,9 +16,9 @@ The aim is to answer questions such as: How have infrastructure changes in Sub-S
 Does growth in communications infrastructure, such as internet and cellphones, lead to economic growth? 
 Are there differences in outcomes by the income-level of the country? How does inflation and vulnerable employment factor in?
 
-[Part 1](https://sooeun67.github.io/Africa/Home.html)
+[Part 1 with static plots](https://sooeun67.github.io/Africa/Home.html)
 
-[Part 2](https://sooeun67.github.io/Africa/Home.html)
+[Part 2 with interactive plots](https://github.com/sooeun67/Africa2/blob/master/Home.html)
 
 ## 3. Alcohol & Health Project
 
