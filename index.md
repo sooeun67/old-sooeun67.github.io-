@@ -18,7 +18,7 @@ Are there differences in outcomes by the income-level of the country? How does i
 
 [Part 1 with Static Plots](https://sooeun67.github.io/Africa/Home.html)
 
-[Part 2 with Interactive Plots](sooeun67.github.io/Africa2/Home.html)
+[Part 2 with Interactive Plots](https://sooeun67.github.io/Africa2/Home.html)
 
 ## 3. Alcohol & Health Project
 
